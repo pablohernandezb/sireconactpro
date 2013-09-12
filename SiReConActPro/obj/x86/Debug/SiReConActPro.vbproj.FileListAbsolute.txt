@@ -1,0 +1,11 @@
+C:\Users\HEXAGON.COM\Documents\GitHub\sireconactpro\SiReConActPro\bin\Debug\SiReConActPro.exe
+C:\Users\HEXAGON.COM\Documents\GitHub\sireconactpro\SiReConActPro\bin\Debug\SiReConActPro.pdb
+C:\Users\HEXAGON.COM\Documents\GitHub\sireconactpro\SiReConActPro\bin\Debug\SiReConActPro.xml
+C:\Users\HEXAGON.COM\Documents\GitHub\sireconactpro\SiReConActPro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HEXAGON.COM\Documents\GitHub\sireconactpro\SiReConActPro\obj\x86\Debug\WindowsApplication1.bienvenido.resources
+C:\Users\HEXAGON.COM\Documents\GitHub\sireconactpro\SiReConActPro\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\HEXAGON.COM\Documents\GitHub\sireconactpro\SiReConActPro\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HEXAGON.COM\Documents\GitHub\sireconactpro\SiReConActPro\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HEXAGON.COM\Documents\GitHub\sireconactpro\SiReConActPro\obj\x86\Debug\SiReConActPro.exe
+C:\Users\HEXAGON.COM\Documents\GitHub\sireconactpro\SiReConActPro\obj\x86\Debug\SiReConActPro.xml
+C:\Users\HEXAGON.COM\Documents\GitHub\sireconactpro\SiReConActPro\obj\x86\Debug\SiReConActPro.pdb
